@@ -4,7 +4,7 @@ Static Comp 2!! Fun one. I definitely went with some jarring color choices as it
 
 Did a couple of media queries, and one was vertical, which I hadn't done yet! But it all works pretty well I believe.
 
-![Static Comp 2 inspiration](http://frontend.turing.io/assets/images/static-comp-challenge-2.jpg")
+![Static Comp 2 inspiration](http://frontend.turing.io/assets/images/static-comp-challenge-2.jpg)
 
 ![Imgur](https://i.imgur.com/9jHloNA.jpg)
 
