@@ -1,4 +1,4 @@
-
+https://yayfiber.github.io/cb-comp-challenge-2/
 
 Static Comp 2!! Fun one. I definitely went with some jarring color choices as it's very hokey and halloween-ey, but I like it, and I think it works for the content it holds, even if it's not something I'd ever design for a company! It was nice to get more experience with flexbox and responsive design. 
 
