@@ -305,7 +305,17 @@ h3 {
   }
 } 
 
+@media screen and (max-width: 850px) {
+  main {
+    height: 180vh;
+  }
+}
+
 @media screen and (max-width: 650px) {
+  main {
+    height: 250vh;
+  }
+
   .monster-nav-options {
     width: 148px;
     display: inline-flex;
@@ -334,10 +344,6 @@ h3 {
     font-size: 14px;
   }
 
-  main {
-    height: 210vh;
-  }
-
   .card {
     width: 48%;
   }
@@ -359,7 +365,7 @@ h3 {
 
   .card {
     width: 80%;
-    min-height: 55vh;
+    min-height: 50vh;
     margin: 0 auto 2vh;
   }
 
